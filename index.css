@@ -101,6 +101,10 @@ nav img{
     letter-spacing: 0%;  
 }
 .container2{
-
-    margin: 50px;
+    display: flex;
+    justify-content: space-around;
+    padding: 20%;
+}
+.photo{
+    display: flex;
 }
